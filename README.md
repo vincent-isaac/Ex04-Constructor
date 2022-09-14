@@ -81,7 +81,7 @@ namespace program4
 }
  ```
  ## Output:
- ![exp4 c#](https://user-images.githubusercontent.com/75234588/190057835-a9bd5c03-7361-4471-a91e-f293e225269c.PNG)
+ ![exp4 c#](https://user-images.githubusercontent.com/75234588/190058462-c2fe77b9-c4ca-4b1c-ad82-258563102431.PNG)
 
 
  ## Result:
