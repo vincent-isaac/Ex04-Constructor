@@ -1,5 +1,4 @@
 ### EX NO : 04
-### DATE  : 27.04.2022
 # <p align="center">Constructor</p>
 ## Aim:
  To write a C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor.
@@ -23,7 +22,7 @@ stop
 
  ## Program:
  ```c#
- using System;
+using System;
 namespace program4
 {
    public class employee
@@ -71,7 +70,7 @@ namespace program4
                exp = Convert.ToInt32(Console.ReadLine());
                Console.WriteLine("Enter basic salary of the employee: ");
                bs = Convert.ToInt32(Console.ReadLine());
-               Console.WriteLine("Enter insurance: ");
+               Console.WriteLine("Enter insurance amount: ");
                ins = Convert.ToInt32(Console.ReadLine());
                employee emp = new employee(nam,desig,exp,bs,ins);
            }
@@ -82,8 +81,8 @@ namespace program4
 }
  ```
  ## Output:
- 
- ![c#ot1](https://user-images.githubusercontent.com/75235022/167242552-6911b6ea-57f1-43cc-a225-33490fb6a9c7.png)
+ ![exp4 c#](https://user-images.githubusercontent.com/75234588/190057835-a9bd5c03-7361-4471-a91e-f293e225269c.PNG)
+
 
  ## Result:
  Thus C# program to calculate the salary of an employee by passing the name, designation, noofexperience, basic salary and insurance amount through constructor is executed successfully.
